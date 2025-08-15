@@ -47,6 +47,27 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 
 ## 🕕. Installation en mode local  
 
+### Prérequis  
+XAMPP (Apache, PHP, MySQL)
+Git
+Étapes
+Cloner le dépôt
+git clone https://github.com/ThibaultBds/ecf-projet.git
+Placer le dossier dans XAMPP
+Copier le dossier dans C:\xampp\htdocs\ecoride
+Créer la base de données
+Ouvrir phpMyAdmin
+Importer SQL/ecoride.sql
+Configurer la connexion
+Modifier config.php (ou backend/config/database.php) avec vos identifiants MySQL locaux :
+$host = 'localhost';
+$dbname = 'ecoride';
+$username = 'root';
+$password = '';
+Lancer le serveur
+Démarrer Apache et MySQL via XAMPP
+Accéder à l’application via http://localhost/ecoride/frontend/public/pages/index.php
+
 ---
 
 ## 🕖. Comment accéder à la plateforme en mode local  
