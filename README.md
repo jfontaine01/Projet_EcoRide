@@ -21,8 +21,8 @@ Projet réalisé par FONTAINE Jérôme dans le cadre du TP Développeur Web & We
 ---
 
 ## 1. Présentation de l'application  
-l'application EcoRide favorise la mobilité responsable en simplifiant le covoiturage entre particuliers. 
-Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant compte de critères écologiques et/ou sociaux :
+l'application EcoRide favorise la mobilité responsable en simplifiant le covoiturage entre particuliers.   
+Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant compte de critères écologiques et/ou sociaux :  
 - la présence d’animaux,
 - le tabagisme
 - ou le type de véhicule.
