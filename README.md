@@ -53,7 +53,7 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 ### Étapes    
 1. Cloner le dépôt
     ```  
-    git clone https://github.com/ThibaultBds/ecf-projet.git
+    git clone https://github.com/jfontaine01/Porojet_EcoRide.git
     ```  
 2. Placer le dossier dans XAMPP  
     > Copier le dossier dans C:\xampp\htdocs\ecoride  
@@ -67,10 +67,13 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
     $dbname = 'ecoride';
     $username = 'root';
     $password = '';
-    Lancer le serveur
-    Démarrer Apache et MySQL via XAMPP
-    Accéder à l’application via http://localhost/ecoride/frontend/public/pages/index.php
-    ```  
+    ```
+5. Lancer le serveur  
+    >Démarrer Apache et MySQL via XAMPP  
+    >Accéder à l’application via
+    ```      
+    http://localhost/ecoride/frontend/public/pages/index.php
+     ```  
 
 ---
 
