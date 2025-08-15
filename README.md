@@ -48,14 +48,16 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 ## 🕕. Installation en mode local  
 
 ### Prérequis  
-XAMPP (Apache, PHP, MySQL)
-Git
-Étapes
-Cloner le dépôt
-git clone https://github.com/ThibaultBds/ecf-projet.git
-Placer le dossier dans XAMPP
-Copier le dossier dans C:\xampp\htdocs\ecoride
-Créer la base de données
+- XAMPP (Apache, PHP, MySQL)  
+- Git  
+### Étapes    
+1. Cloner le dépôt
+```  
+$ git clone https://github.com/ThibaultBds/ecf-projet.git
+```  
+2. Placer le dossier dans XAMPP  
+Copier le dossier dans C:\xampp\htdocs\ecoride  
+3. Créer la base de données  
 Ouvrir phpMyAdmin
 Importer SQL/ecoride.sql
 Configurer la connexion
