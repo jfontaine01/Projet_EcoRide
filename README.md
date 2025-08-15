@@ -5,18 +5,18 @@ Projet réalisé par FONTAINE Jérôme dans le cadre du TP Développeur Web & We
 ---
 
 ## Sommaire
-1/ Présentation  
-2/ Accès à l’application  
-3/ Preuves de fonctionnement  
+1. Présentation de l'application 
+2. Accès à l’application  
+3. Applications en fonctionnement (preuves à l'appuie)  
 4/ Difficultés rencontrées  
-5/ Technologies utilisées  
-6/ Installation locale  
-7/ Accès local  
-8/ Comptes de test  
-9/ Problèmes connus / Limitations  
-10/ Structure du projet  
-11/ Documentation  
-12/ Contact  
+5/ Ressources utilisées  
+6/ Installation en mode local  
+7/ Comment accéder à la plateforme en mode local  
+8/ Comptes utilisateurs permettant de tester  
+9/ Problèmes identifés / Limitations de la plateforme  
+10/ Arboresence du projet  
+11/ Documentations  
+12/ A Propos  
 
 ---
 
