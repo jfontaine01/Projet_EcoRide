@@ -52,23 +52,25 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 - Git  
 ### Étapes    
 1. Cloner le dépôt
-```  
-$ git clone https://github.com/ThibaultBds/ecf-projet.git
-```  
+    ```  
+    git clone https://github.com/ThibaultBds/ecf-projet.git
+    ```  
 2. Placer le dossier dans XAMPP  
-Copier le dossier dans C:\xampp\htdocs\ecoride  
+    > Copier le dossier dans C:\xampp\htdocs\ecoride  
 3. Créer la base de données  
-Ouvrir phpMyAdmin
-Importer SQL/ecoride.sql
-Configurer la connexion
-Modifier config.php (ou backend/config/database.php) avec vos identifiants MySQL locaux :
-$host = 'localhost';
-$dbname = 'ecoride';
-$username = 'root';
-$password = '';
-Lancer le serveur
-Démarrer Apache et MySQL via XAMPP
-Accéder à l’application via http://localhost/ecoride/frontend/public/pages/index.php
+    > Ouvrir phpMyAdmin  
+    > Importer SQL/ecoride.sql  
+4. Configurer la connexion  
+    >Modifier config.php (ou backend/config/database.php) avec vos identifiants MySQL locaux :  
+    ```  
+    $host = 'localhost';
+    $dbname = 'ecoride';
+    $username = 'root';
+    $password = '';
+    Lancer le serveur
+    Démarrer Apache et MySQL via XAMPP
+    Accéder à l’application via http://localhost/ecoride/frontend/public/pages/index.php
+    ```  
 
 ---
 
