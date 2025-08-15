@@ -35,6 +35,7 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 
 ## 🕒. L'applications en fonctionnement (preuves à l'appuie)  
 
+---
 
 ## 🕓. Difficultés rencontrées  
 
