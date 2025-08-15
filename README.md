@@ -2,6 +2,8 @@
 Il s'agit d'une plateforme web de covoiturage écologique permettant de partager des trajets en favorisant la mobilité durable.
 Projet réalisé par FONTAINE Jérôme dans le cadre du TP Développeur Web & Web Mobile (TP DWWM).
 
+---
+
 ## Sommaire
 1/ Présentation  
 2/ Accès à l’application  
@@ -15,3 +17,6 @@ Projet réalisé par FONTAINE Jérôme dans le cadre du TP Développeur Web & We
 10/ Structure du projet  
 11/ Documentation  
 12/ Contact  
+
+---
+
