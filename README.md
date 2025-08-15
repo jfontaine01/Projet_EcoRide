@@ -7,7 +7,7 @@ Projet réalisé par FONTAINE Jérôme dans le cadre du TP Développeur Web & We
 ## Sommaire
 1. Présentation de l'application 
 2. Accès à l’application  
-3. Applications en fonctionnement (preuves à l'appuie)  
+3. L'applications en fonctionnement (preuves à l'appuie)  
 4. Difficultés rencontrées  
 5. Ressources utilisées  
 6. Installation en mode local  
@@ -24,7 +24,15 @@ Projet réalisé par FONTAINE Jérôme dans le cadre du TP Développeur Web & We
 l'application EcoRide favorise la mobilité responsable en simplifiant le covoiturage entre particuliers.   
 Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant compte de critères écologiques et/ou sociaux :  
 - la présence d’animaux,
-- le tabagisme
-- ou le type de véhicule.
+- le tabagisme,
+- le type de véhicule.
 
 ---
+
+## 2. Accès à l’application  
+
+
+## 3. L'applications en fonctionnement (preuves à l'appuie)  
+
+
+## 4. Difficultés rencontrées  
