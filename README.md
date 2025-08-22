@@ -71,13 +71,15 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 5. Lancer le serveur  
     >Démarrer Apache et MySQL via XAMPP  
     >Accéder à l’application via
-    ```      
-    http://localhost/ecoride/frontend/public/pages/index.php
-     ```  
+
 
 ---
 
-## 🕖. Comment accéder à la plateforme en mode local  
+## 🕖. Comment accéder à la plateforme en mode local 
+
+    ```      
+    http://localhost/ecoride/frontend/public/pages/index.php
+     ```  
 
 ---
 
