@@ -76,6 +76,7 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 
 ## 🕖. Comment accéder à la plateforme en mode local   
 
+   L’application est accessible à l’adresse suivante :
    ```  
    http://localhost/ecoride/frontend/public/pages/index.php
    ```  
@@ -83,6 +84,28 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 ---
 
 ## 🕗. Comptes utilisateurs permettant de tester  
+
+Utilisez les identifiants suivants pour tester les différents rôles dans l’application :
+
+Utilisateur Standard
+
+Email : user@ecoride.fr
+Mot de passe : password
+Rôle : Utilisateur
+
+Administrateur
+
+Email : admin@ecoride.fr
+Mot de passe : password
+Rôle : Administrateur
+
+Modérateur
+
+Email : modo@ecoride.fr
+Mot de passe : password
+Rôle : Modérateur
+
+Ces identifiants sont ceux de la base locale de développement 
 
 ---
 
