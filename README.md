@@ -123,15 +123,14 @@ Ces identifiants sont ceux de la base locale de développement
 
 ## 🕙. Arboresence du projet  
 
-ton-projet/
-├── backend/       # Code PHP
-├── frontend/      # HTML, CSS, JS
-├── SQL/           # Scripts de base de données
-├── docs/          # Documentation PDF
-├── script/        # Scripts divers
-└── README.md      # Ce fichier
-
-
+ton-projet/  
+├── backend/       # Code PHP  
+├── frontend/      # HTML, CSS, JS  
+├── SQL/           # Scripts de base de données  
+├── docs/          # Documentation PDF  
+├── script/        # Scripts divers  
+└── README.md      # Ce fichier  
+  
 ---
 
 ## 🕚. Documentations  
