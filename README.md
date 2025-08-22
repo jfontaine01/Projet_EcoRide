@@ -123,12 +123,27 @@ Ces identifiants sont ceux de la base locale de développement
 
 ## 🕙. Arboresence du projet  
 
+ton-projet/
+├── backend/       # Code PHP
+├── frontend/      # HTML, CSS, JS
+├── SQL/           # Scripts de base de données
+├── docs/          # Documentation PDF
+├── script/        # Scripts divers
+└── README.md      # Ce fichier
+
+
 ---
 
 ## 🕚. Documentations  
 
+- Manuel utilisateur : docs/Manuel_Utilisateur.pdf  
+- Documentation technique : docs§Documentations_Technique.pdf  
+
 ---
 
 ## 🕛. A Propos  
+
+Auteur : FONTAINE Jérôme  
+Formation : TP Développeur Web & Web Mobile  
 
 ---
