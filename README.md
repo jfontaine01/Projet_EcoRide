@@ -87,19 +87,19 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 
 Utilisez les identifiants suivants pour tester les différents rôles dans l’application :
 
-Utilisateur Standard
+- Utilisateur Standard
 
 Email : user@ecoride.fr
 Mot de passe : password
 Rôle : Utilisateur
 
-Administrateur
+- Administrateur
 
 Email : admin@ecoride.fr
 Mot de passe : password
 Rôle : Administrateur
 
-Modérateur
+- Modérateur
 
 Email : modo@ecoride.fr
 Mot de passe : password
