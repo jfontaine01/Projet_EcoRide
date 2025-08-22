@@ -56,15 +56,15 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
     git clone https://github.com/jfontaine01/Projet_EcoRide.git
     ```  
 2. Placer le dossier dans XAMPP  
-    > Copier le dossier dans C:\xampp\htdocs\ecoride  
+    > Copier le dossier dans C:\xampp\htdocs\Projet_EcoRide  
 3. Créer la base de données  
     > Ouvrir phpMyAdmin  
-    > Importer SQL/ecoride.sql  
+    > Importer SQL/ecoride_db.sql  
 4. Configurer la connexion  
     >Modifier config.php (ou backend/config/database.php) avec vos identifiants MySQL locaux :  
     ```  
     $host = 'localhost';
-    $dbname = 'ecoride';
+    $dbname = 'ecoride_db';
     $username = 'root';
     $password = '';
     ```
