@@ -89,9 +89,9 @@ Utilisez les identifiants suivants pour tester les différents rôles dans l’a
 
 - Utilisateur Standard
 
-Email : user@ecoride.fr
-Mot de passe : password
-Rôle : Utilisateur
+  Email : user@ecoride.fr
+  Mot de passe : password
+  Rôle : Utilisateur
 
 - Administrateur
 
