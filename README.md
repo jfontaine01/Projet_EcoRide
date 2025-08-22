@@ -41,7 +41,15 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 
 ---
 
-## 🕔. Ressources utilisées  
+## 🕔. Ressources utilisées 
+
+- PHP 8.x (PDO orienté objet)
+- HTML5, CSS3 (Bootstrap)
+- JavaScript 
+- MySQL / MariaDB
+- Chart.js (statistiques)
+- SVG icon library
+- Serveur local : XAMPP (Windows)
 
 ---
 
