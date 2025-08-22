@@ -89,21 +89,21 @@ Utilisez les identifiants suivants pour tester les différents rôles dans l’a
 
 - Utilisateur Standard
 
-  Email : utilisateur@ecoride.fr
-  Mot de passe : password
-  Rôle : Utilisateur
-
-- Modérateur
-
-  Email : modo@ecoride.fr  
+  Email : utilisateur@ecoride.fr  
   Mot de passe : password  
-  Rôle : Modérateur  
+  Rôle : Utilisateur  
+
+- Modérateur (Employé)
+
+  Email : employe@ecoride.fr  
+  Mot de passe : password  
+  Rôle : Employé  
 
 - Administrateur  
 
-Email : admin@ecoride.fr  
-Mot de passe : password  
-Rôle : Administrateur  
+  Email : admin@ecoride.fr  
+  Mot de passe : password  
+  Rôle : Administrateur  
 
 Ces identifiants sont ceux de la base locale de développement 
 
