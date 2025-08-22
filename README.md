@@ -75,8 +75,7 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 
 ---
 
-## 🕖. Comment accéder à la plateforme en mode local 
-
+## 🕖. Comment accéder à la plateforme en mode local   
     ```  
     http://localhost/ecoride/frontend/public/pages/index.php
     ```  
