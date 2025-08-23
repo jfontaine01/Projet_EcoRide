@@ -149,8 +149,11 @@ Certaines erreurs liés au mauvaise manipulation uutilisateur ne sont pas géré
 
 ## 🕚. Documentations  
 
+- Gestion de projet : docs/Gestion de Projet.pdf
+- Charte graphique : docs/Charte graphique.pdf
+- Documentation technique : docs/Documentations_Technique.pdf
+- Preuce de bon fonctionnement : docs/Preuve de bon fonctionnement.pdf  
 - Manuel utilisateur : docs/Manuel_Utilisateur.pdf  
-- Documentation technique : docs§Documentations_Technique.pdf  
 
 ---
 
