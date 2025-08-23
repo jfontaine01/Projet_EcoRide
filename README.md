@@ -33,11 +33,19 @@ Les utilisateurs pourront explorer, proposer ou réserver des trajets en tenant 
 
 ---
 
-## 🕒. L'applications en fonctionnement (preuves à l'appuie)  
+## 🕒. L'application en fonctionnement (preuves à l'appuie)  
+
+Toutes les fonctionnalités principales sont démontrées dans le PDF “preuves du fonctionnement de l'application” (/docs/Preuves du fonctionnement de l'application.pdf).
+Ce document fait foi en cas d’impossibilité.
 
 ---
 
 ## 🕓. Difficultés rencontrées  
+
+Les difficultés sont apparues au fil du développement concernant 
+- L'adaptation de modèle incomplet.
+    - (Ajout de champs, (alter Table ...) 
+- la gestion d'un utilisazteur connecté utilisable sur les différentes pages
 
 ---
 
