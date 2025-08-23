@@ -129,6 +129,8 @@ Ces identifiants sont ceux de la base locale de développement
 
 ## 🕘. Problèmes identifés / Limitations de la plateforme  
 
+Certaines erreurs liés au mauvaise manipulation uutilisateur ne sont pas gérées.  
+
 ---
 
 ## 🕙. Arboresence du projet  
