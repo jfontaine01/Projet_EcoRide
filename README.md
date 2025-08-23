@@ -42,10 +42,12 @@ Ce document fait foi en cas d’impossibilité.
 
 ## 🕓. Difficultés rencontrées  
 
-Les difficultés sont apparues au fil du développement concernant 
-- L'adaptation de modèle incomplet.
-    - (Ajout de champs, (alter Table ...) 
+Les principales difficultés sont apparues au fil du développement avec :
+- le modèle de Base De Données (BDD) fouurnis qui n'est pas complet : 
+    - Ajout de table -> CREATE TABLE ...  
+    - Ajout de champs -> ALTER TABLE ...
 - la gestion d'un utilisazteur connecté utilisable sur les différentes pages
+- la gestion des erreurs
 
 ---
 
