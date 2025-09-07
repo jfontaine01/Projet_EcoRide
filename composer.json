@@ -1,0 +1,11 @@
+{
+    "name": "papa_maman/projet_eco-ride",
+    "autoload": {
+        "psr-4": {
+            "PapaMaman\\ProjetEcoRide\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
