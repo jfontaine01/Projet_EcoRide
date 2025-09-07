@@ -46,7 +46,7 @@ Les principales difficultés sont apparues au fil du développement avec :
 - le modèle de Base De Données (BDD) fouurnis qui n'est pas complet : 
     - Ajout de table -> CREATE TABLE ...  
     - Ajout de champs -> ALTER TABLE ...
-- la gestion d'un utilisazteur connecté utilisable sur les différentes pages
+- la gestion d'un utilisateur connecté utilisable sur les différentes pages
 - la gestion des erreurs
 
 ---
