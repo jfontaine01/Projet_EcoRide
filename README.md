@@ -136,13 +136,28 @@ Certaines erreurs liés au mauvaise manipulation uutilisateur ne sont pas géré
 ## 🕙. Arboresence du projet  
 
    ```  
-   ton-projet/  
-   ├── backend/       # Code PHP  
-   ├── frontend/      # HTML, CSS, JS  
-   ├── SQL/           # Scripts de base de données  
-   ├── docs/          # Documentation PDF  
-   ├── script/        # Scripts divers  
-   └── README.md      # Ce fichier  
+Projet_EcoRide/
+├── backend/
+│   ├── config/           # Connexion à la base de données, config SQL
+│   ├── controllers/      # Logique métier (gestion utilisateurs, etc.)
+│   ├── logs/             # Fichiers de logs (accès, erreurs, debug)
+├── frontend/
+│   ├── pages/            # Pages accessibles (index.php, etc.)
+│   ├── assets/           # Ressources statiques
+│   │   ├── css/          # Feuilles de style CSS
+│   │   ├── img/          # Images métier (illustrations, icônes)
+│   │   └── js/           # Scripts JavaScript (interactions, formulaires)
+│   └── includes/         # Templates réutilisables (navbar/header/footer)
+├── vendors/              # Dépendances installées via Composer
+│   ├── composer/         # Fichiers liés au gestionnaire Composer
+│   ├── graham-campbell/  # Package utilitaire (ex: configuration, helpers)
+│   ├── phpoption/        # Package pour la gestion d’options PHP
+│   ├── symfony/          # Composants Symfony (dotenv, routing, etc.)
+│   ├── vlucas/           # Package vlucas/phpdotenv gérer variables d’env.
+├── .env                  # Fichier d’environnement (variables sensibles)
+├── composer.json         # Fichier de config Composer (dépendances)
+├── composer.lock         # Fichier de verrouillage des versions packages
+└── README.md             # Documentation du projet 
    ```  
   
 ---
