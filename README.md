@@ -96,7 +96,7 @@ Les principales difficultés sont apparues au fil du développement avec :
 
    L’application est accessible à l’adresse suivante :
    ```  
-   http://localhost/ecoride/frontend/public/pages/index.php
+   http://localhost/Projet_EcoRide/frontend/pages/index.php
    ```  
     
 ---
